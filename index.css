@@ -1,0 +1,23 @@
+.color-selector{
+  background: linear-gradient(95deg,rgb(31, 174, 179), rgb(15, 93, 209));
+}
+
+.btn-save{
+  background: linear-gradient(45deg,rgb(31, 174, 179), rgb(15, 93, 209));
+}
+
+.btn-selectors{
+  background: linear-gradient(45deg,rgb(223, 73, 14), rgb(194, 154, 109));
+}
+
+.btnadd{
+  border-radius: 100%;
+  background: rgb(55, 148, 55);
+}
+
+
+.btnreduce{
+  border-radius: 100%;
+  background: rgb(196, 19, 19);
+}
+
